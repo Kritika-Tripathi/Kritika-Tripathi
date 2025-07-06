@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😄 Pronouns She/Her
-- 👯 I’m currently working with @Instamojo as Software Engineer
+- 👯 I'm currently working at Zopping as a Senior Software Engineer. Previously, I worked as a Software Engineer at Instamojo, where I contributed to building scalable and user-centric products.
 - 🌱 I’m currently working on React, React-Query, React-Redux, Javascript, Typescript, NextJs.
 
 ### 🤝🏻 Connect with me:
